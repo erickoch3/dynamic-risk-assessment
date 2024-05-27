@@ -1,0 +1,1 @@
+*/10 * * * * /Users/ewkoch/repos/dynamic-risk-assessment-system/fullprocess.py
